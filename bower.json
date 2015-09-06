@@ -1,0 +1,22 @@
+{
+  "name": "express-angular-seed",
+  "version": "0.0.0",
+  "authors": [
+    "warlyware <danward@gmail.com>"
+  ],
+  "description": "Express + Angular seed project",
+  "main": "app.js",
+  "keywords": [
+    "express",
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "github.com/warlyware",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
