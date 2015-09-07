@@ -8,10 +8,11 @@ var run = require('run-sequence');
 var config = {
   src: {
     sass: ['./sass/*.scss'],
+    bower: ['./bower_components']
   },
 
   dest: {
-    css: './public/stylesheets'
+    css: './public'
   }
 };
 
