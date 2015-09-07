@@ -1,1 +1,6 @@
-console.log('home controller loaded');
+angular.module('myApp')
+  .controller('HomeCtrl', function($scope) {
+
+    console.log('home controller loaded');
+
+  });
